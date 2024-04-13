@@ -1,4 +1,3 @@
--- Comments in SQL Start with dash-dash --
 insert into products (name, price, can_be_returned) values ("chair", 44.00, false);
 insert into products (name, price, can_be_returned) values ("stool", 25.99, true);
 insert into products (name, price, can_be_returned) values ("table", 124.00, false);
